@@ -6,7 +6,7 @@ const CONFIG = {
   // En desarrollo usamos archivos locales, en producción usamos GitHub
   DATA_URL: import.meta.env.DEV 
     ? '/data'
-    : 'https://raw.githubusercontent.com/javtr/front-bd/main/public/data',
+    : 'https://raw.githubusercontent.com/javtr/front-bd/gh-pages/data',
   // Archivos que necesitamos manejar
   FILES: {
     CLIENTES: 'clientes.json',
@@ -347,6 +347,11 @@ function App() {
 
       setCambiosPendientes(false);
       alert('Los archivos han sido actualizados correctamente. Los cambios se reflejarán en unos momentos.');
+      
+      // Esperar 5 segundos y recargar los datos
+      setTimeout(() => {
+        cargarDatos();
+      }, 5000);
     } catch (error) {
       console.error('Error al guardar cambios:', error);
       setError('Error al guardar los cambios: ' + error.message);
@@ -357,12 +362,20 @@ function App() {
   // Función para cargar los datos
   const cargarDatos = async () => {
     try {
+      setIsLoading(true);
+      setError(null);
+
       const [clientesRes, productosRes, comprasRes, mediosPagoRes] = await Promise.all([
         fetch(`${CONFIG.DATA_URL}/${CONFIG.FILES.CLIENTES}`),
         fetch(`${CONFIG.DATA_URL}/${CONFIG.FILES.PRODUCTOS}`),
         fetch(`${CONFIG.DATA_URL}/${CONFIG.FILES.COMPRAS}`),
         fetch(`${CONFIG.DATA_URL}/${CONFIG.FILES.MEDIOS_PAGO}`)
       ]);
+
+      // Verificar si las respuestas son exitosas
+      if (!clientesRes.ok || !productosRes.ok || !comprasRes.ok || !mediosPagoRes.ok) {
+        throw new Error('Error al cargar los datos. Por favor, intente nuevamente.');
+      }
 
       const clientesData = await clientesRes.json();
       const productosData = await productosRes.json();
@@ -393,9 +406,10 @@ function App() {
       });
 
       setClientesCombinados(combinados);
-      setIsLoading(false);
     } catch (err) {
+      console.error('Error al cargar datos:', err);
       setError('Error al cargar los datos: ' + err.message);
+    } finally {
       setIsLoading(false);
     }
   }
