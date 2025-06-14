@@ -283,14 +283,13 @@ function App() {
 
   const guardarCambios = async () => {
     try {
-      // En desarrollo usamos el token del .env, en producción usamos el token de los secretos
-      const token = import.meta.env.DEV 
-        ? import.meta.env.VITE_GITHUB_TOKEN
-        : process.env.VITE_GITHUB_TOKEN;
+      // Obtener el token del entorno
+      const token = import.meta.env.VITE_GITHUB_TOKEN;
       const repository = 'javtr/front-bd';
 
       if (!token) {
-        throw new Error('No se encontró el token de GitHub');
+        console.error('Token no encontrado:', import.meta.env);
+        throw new Error('No se encontró el token de GitHub. Por favor, verifica la configuración.');
       }
 
       // Preparar los datos para enviar
@@ -319,6 +318,7 @@ function App() {
 
       if (!response.ok) {
         const errorData = await response.json();
+        console.error('Error de GitHub:', errorData);
         throw new Error(`Error al enviar los datos a GitHub: ${errorData.message || response.statusText}`);
       }
 
