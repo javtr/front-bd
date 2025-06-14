@@ -283,7 +283,6 @@ function App() {
 
   const guardarCambios = async () => {
     try {
-      // Obtener el token del entorno
       const token = import.meta.env.VITE_GITHUB_TOKEN;
       const repository = 'javtr/front-bd';
 
@@ -296,30 +295,54 @@ function App() {
       const clientesData = JSON.stringify(clientes, null, 2);
       const comprasData = JSON.stringify(compras, null, 2);
 
-      // Enviar los datos al GitHub Action
-      const response = await fetch(
-        `https://api.github.com/repos/${repository}/dispatches`,
-        {
-          method: 'POST',
-          headers: {
-            'Accept': 'application/vnd.github.v3+json',
-            'Authorization': `Bearer ${token}`,
-            'Content-Type': 'application/json',
-          },
-          body: JSON.stringify({
-            event_type: 'update_data',
-            client_payload: {
-              clientes: clientesData,
-              compras: comprasData
-            }
-          })
-        }
-      );
+      // Dividir los datos en chunks más pequeños
+      const chunkSize = 100; // Número de elementos por chunk
+      const clientesChunks = [];
+      const comprasChunks = [];
 
-      if (!response.ok) {
-        const errorData = await response.json();
-        console.error('Error de GitHub:', errorData);
-        throw new Error(`Error al enviar los datos a GitHub: ${errorData.message || response.statusText}`);
+      // Dividir clientes
+      for (let i = 0; i < clientes.length; i += chunkSize) {
+        clientesChunks.push(clientes.slice(i, i + chunkSize));
+      }
+
+      // Dividir compras
+      for (let i = 0; i < compras.length; i += chunkSize) {
+        comprasChunks.push(compras.slice(i, i + chunkSize));
+      }
+
+      // Enviar cada chunk por separado
+      for (let i = 0; i < Math.max(clientesChunks.length, comprasChunks.length); i++) {
+        const payload = {
+          event_type: 'update_data',
+          client_payload: {
+            chunk_index: i,
+            total_chunks: Math.max(clientesChunks.length, comprasChunks.length),
+            clientes: clientesChunks[i] ? JSON.stringify(clientesChunks[i], null, 2) : null,
+            compras: comprasChunks[i] ? JSON.stringify(comprasChunks[i], null, 2) : null
+          }
+        };
+
+        const response = await fetch(
+          `https://api.github.com/repos/${repository}/dispatches`,
+          {
+            method: 'POST',
+            headers: {
+              'Accept': 'application/vnd.github.v3+json',
+              'Authorization': `Bearer ${token}`,
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify(payload)
+          }
+        );
+
+        if (!response.ok) {
+          const errorData = await response.json();
+          console.error('Error de GitHub:', errorData);
+          throw new Error(`Error al enviar los datos a GitHub: ${errorData.message || response.statusText}`);
+        }
+
+        // Esperar un poco entre cada envío para no sobrecargar la API
+        await new Promise(resolve => setTimeout(resolve, 1000));
       }
 
       setCambiosPendientes(false);

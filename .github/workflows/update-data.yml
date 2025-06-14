@@ -14,10 +14,53 @@ jobs:
 
       - name: Update JSON files
         run: |
-          echo '${{ github.event.client_payload.clientes }}' > public/data/clientes.json
-          echo '${{ github.event.client_payload.compras }}' > public/data/compras.json
+          # Crear directorios temporales si no existen
+          mkdir -p temp_data
+          
+          # Guardar el chunk actual
+          if [ "${{ github.event.client_payload.clientes }}" != "null" ]; then
+            echo '${{ github.event.client_payload.clientes }}' > temp_data/clientes_${{ github.event.client_payload.chunk_index }}.json
+          fi
+          
+          if [ "${{ github.event.client_payload.compras }}" != "null" ]; then
+            echo '${{ github.event.client_payload.compras }}' > temp_data/compras_${{ github.event.client_payload.chunk_index }}.json
+          fi
+          
+          # Calcular el último índice
+          LAST_INDEX=$(( ${{ github.event.client_payload.total_chunks }} - 1 ))
+          
+          # Si es el último chunk, combinar todos los archivos
+          if [ "${{ github.event.client_payload.chunk_index }}" == "$LAST_INDEX" ]; then
+            # Combinar clientes
+            echo "[" > public/data/clientes.json
+            for i in $(seq 0 $LAST_INDEX); do
+              if [ -f "temp_data/clientes_$i.json" ]; then
+                cat temp_data/clientes_$i.json | sed '1d' | sed '$d' >> public/data/clientes.json
+                if [ $i -lt $LAST_INDEX ]; then
+                  echo "," >> public/data/clientes.json
+                fi
+              fi
+            done
+            echo "]" >> public/data/clientes.json
+            
+            # Combinar compras
+            echo "[" > public/data/compras.json
+            for i in $(seq 0 $LAST_INDEX); do
+              if [ -f "temp_data/compras_$i.json" ]; then
+                cat temp_data/compras_$i.json | sed '1d' | sed '$d' >> public/data/compras.json
+                if [ $i -lt $LAST_INDEX ]; then
+                  echo "," >> public/data/compras.json
+                fi
+              fi
+            done
+            echo "]" >> public/data/compras.json
+            
+            # Limpiar archivos temporales
+            rm -rf temp_data
+          fi
 
       - name: Commit and push changes
+        if: github.event.client_payload.chunk_index == github.event.client_payload.total_chunks - 1
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
