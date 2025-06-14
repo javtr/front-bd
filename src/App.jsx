@@ -283,12 +283,14 @@ function App() {
 
   const guardarCambios = async () => {
     try {
-      // Obtener el token de GitHub de las variables de entorno de Vite
-      const token = import.meta.env.VITE_GITHUB_TOKEN;
-      const repository = 'javtr/front-bd'; // Repositorio hardcodeado para evitar problemas
+      // En desarrollo usamos el token del .env, en producción usamos el token de los secretos
+      const token = import.meta.env.DEV 
+        ? import.meta.env.VITE_GITHUB_TOKEN
+        : process.env.VITE_GITHUB_TOKEN;
+      const repository = 'javtr/front-bd';
 
       if (!token) {
-        throw new Error('No se encontró el token de GitHub. Por favor, configura VITE_GITHUB_TOKEN en el archivo .env');
+        throw new Error('No se encontró el token de GitHub');
       }
 
       // Preparar los datos para enviar
