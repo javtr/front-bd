@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "nombre": "OTM pack unico",
+        "precio": "497.0"
+    },
+    {
+        "id": 3,
+        "nombre": "OTM Pack cuotas",
+        "precio": "500.0"
+    },
+    {
+        "id": 15,
+        "nombre": "OTM Swing",
+        "precio": "288.0"
+    },
+    {
+        "id": 20,
+        "nombre": "OTM profile",
+        "precio": "288.0"
+    },
+    {
+        "id": 25,
+        "nombre": "OTM micro",
+        "precio": "192.0"
+    },
+    {
+        "id": 30,
+        "nombre": "OTM cumulated",
+        "precio": "192.0"
+    },
+    {
+        "id": 35,
+        "nombre": "Logic pack",
+        "precio": "397.0"
+    },
+    {
+        "id": 36,
+        "nombre": "Logic pack Of+A",
+        "precio": "247.0"
+    },
+    {
+        "id": 40,
+        "nombre": "Logic Order flow",
+        "precio": "197.0"
+    },
+    {
+        "id": 45,
+        "nombre": "Logic profile",
+        "precio": "197.0"
+    },
+    {
+        "id": 50,
+        "nombre": "Logic analytics",
+        "precio": "97.0"
+    }
+]

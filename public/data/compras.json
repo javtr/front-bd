@@ -1,0 +1,2121 @@
+[
+  {
+    "id": 1,
+    "fecha": "2024-07-16",
+    "cliente": 10,
+    "productos": [
+      3
+    ],
+    "total": "500",
+    "medio": "Lemon squeezy",
+    "tipo": "5"
+  },
+  {
+    "id": 2,
+    "fecha": "2024-06-29",
+    "cliente": 11,
+    "productos": [
+      35
+    ],
+    "total": "317",
+    "medio": "Lemon squeezy",
+    "tipo": "1"
+  },
+  {
+    "id": 146,
+    "fecha": "2021-11-17",
+    "cliente": 121,
+    "productos": [
+      1
+    ],
+    "total": 497,
+    "medio": "paypal OTM",
+    "tipo": 1
+  },
+  {
+    "id": 147,
+    "fecha": "2021-11-28",
+    "cliente": 122,
+    "productos": [
+      1
+    ],
+    "total": 397.6,
+    "medio": "paypal OTM",
+    "tipo": 1
+  },
+  {
+    "id": 150,
+    "fecha": "2021-12-11",
+    "cliente": 123,
+    "productos": [
+      1
+    ],
+    "total": 497,
+    "medio": "paypal OTM",
+    "tipo": 1
+  },
+  {
+    "id": 151,
+    "fecha": "2022-11-14",
+    "cliente": 140,
+    "productos": [
+      3
+    ],
+    "total": 500,
+    "medio": "teachable",
+    "tipo": 5
+  },
+  {
+    "id": 152,
+    "fecha": "2021-11-14",
+    "cliente": 141,
+    "productos": [
+      3
+    ],
+    "total": 500,
+    "medio": "teachable",
+    "tipo": 5
+  },
+  {
+    "id": 153,
+    "fecha": "2021-12-02",
+    "cliente": 142,
+    "productos": [
+      3
+    ],
+    "total": 500,
+    "medio": "teachable",
+    "tipo": 5
+  },
+  {
+    "id": 154,
+    "fecha": "2021-12-18",
+    "cliente": 143,
+    "productos": [
+      3
+    ],
+    "total": 500,
+    "medio": "teachable",
+    "tipo": 5
+  },
+  {
+    "id": 155,
+    "fecha": "2022-01-07",
+    "cliente": 144,
+    "productos": [
+      1
+    ],
+    "total": 497,
+    "medio": "teachable",
+    "tipo": 1
+  },
+  {
+    "id": 156,
+    "fecha": "2022-02-28",
+    "cliente": 145,
+    "productos": [
+      1
+    ],
+    "total": 422.45,
+    "medio": "teachable",
+    "tipo": 1
+  },
+  {
+    "id": 157,
+    "fecha": "2022-03-04",
+    "cliente": 142,
+    "productos": [
+      35
+    ],
+    "total": 240.02620000000002,
+    "medio": "teachable",
+    "tipo": 1
+  },
+  {
+    "id": 158,
+    "fecha": "2022-03-04",
+    "cliente": 146,
+    "productos": [
+      1
+    ],
+    "total": 497,
+    "medio": "teachable",
+    "tipo": 1
+  },
+  {
+    "id": 159,
+    "fecha": "2022-03-08",
+    "cliente": 147,
+    "productos": [
+      40
+    ],
+    "total": 120.17,
+    "medio": "teachable",
+    "tipo": 1
+  },
+  {
+    "id": 160,
+    "fecha": "2022-03-09",
+    "cliente": 148,
+    "productos": [
+      40
+    ],
+    "total": 120.17,
+    "medio": "teachable",
+    "tipo": 1
+  },
+  {
+    "id": 161,
+    "fecha": "2022-03-12",
+    "cliente": 149,
+    "productos": [
+      25
+    ],
+    "total": 192,
+    "medio": "teachable",
+    "tipo": 1
+  },
+  {
+    "id": 162,
+    "fecha": "2022-03-20",
+    "cliente": 150,
+    "productos": [
+      3
+    ],
+    "total": 500,
+    "medio": "teachable",
+    "tipo": 5
+  },
+  {
+    "id": 163,
+    "fecha": "2022-04-01",
+    "cliente": 151,
+    "productos": [
+      3
+    ],
+    "total": 500,
+    "medio": "teachable",
+    "tipo": 5
+  },
+  {
+    "id": 164,
+    "fecha": "2022-04-01",
+    "cliente": 152,
+    "productos": [
+      40,
+      1
+    ],
+    "total": 527.44,
+    "medio": "teachable",
+    "tipo": 1
+  },
+  {
+    "id": 165,
+    "fecha": "2022-04-11",
+    "cliente": 153,
+    "productos": [
+      1
+    ],
+    "total": 422.0027,
+    "medio": "teachable",
+    "tipo": 1
+  },
+  {
+    "id": 166,
+    "fecha": "2022-05-04",
+    "cliente": 154,
+    "productos": [
+      3
+    ],
+    "total": 500,
+    "medio": "teachable",
+    "tipo": 5
+  },
+  {
+    "id": 167,
+    "fecha": "2022-06-17",
+    "cliente": 155,
+    "productos": [
+      1
+    ],
+    "total": 422.45,
+    "medio": "teachable",
+    "tipo": 1
+  },
+  {
+    "id": 168,
+    "fecha": "2022-06-24",
+    "cliente": 156,
+    "productos": [
+      35,
+      1
+    ],
+    "total": 670.5,
+    "medio": "teachable",
+    "tipo": 3
+  },
+  {
+    "id": 169,
+    "fecha": "2022-07-07",
+    "cliente": 157,
+    "productos": [
+      35,
+      3
+    ],
+    "total": 669.5134,
+    "medio": "teachable",
+    "tipo": 5
+  },
+  {
+    "id": 170,
+    "fecha": "2022-07-11",
+    "cliente": 158,
+    "productos": [
+      35
+    ],
+    "total": 350.0349,
+    "medio": "teachable",
+    "tipo": 5
+  },
+  {
+    "id": 171,
+    "fecha": "2022-07-11",
+    "cliente": 159,
+    "productos": [
+      35
+    ],
+    "total": 350.0349,
+    "medio": "teachable",
+    "tipo": 5
+  },
+  {
+    "id": 172,
+    "fecha": "2022-07-14",
+    "cliente": 160,
+    "productos": [
+      35,
+      3
+    ],
+    "total": 665.0112,
+    "medio": "teachable",
+    "tipo": 5
+  },
+  {
+    "id": 173,
+    "fecha": "2022-08-20",
+    "cliente": 161,
+    "productos": [
+      40
+    ],
+    "total": 197,
+    "medio": "teachable",
+    "tipo": 1
+  },
+  {
+    "id": 174,
+    "fecha": "2022-08-08",
+    "cliente": 162,
+    "productos": [
+      3
+    ],
+    "total": 500,
+    "medio": "teachable",
+    "tipo": 5
+  },
+  {
+    "id": 175,
+    "fecha": "2022-08-31",
+    "cliente": 163,
+    "productos": [
+      1
+    ],
+    "total": 497,
+    "medio": "teachable",
+    "tipo": 1
+  },
+  {
+    "id": 176,
+    "fecha": "2022-09-01",
+    "cliente": 164,
+    "productos": [
+      3
+    ],
+    "total": 500,
+    "medio": "teachable",
+    "tipo": 5
+  },
+  {
+    "id": 177,
+    "fecha": "2022-11-10",
+    "cliente": 165,
+    "productos": [
+      3
+    ],
+    "total": 500,
+    "medio": "teachable",
+    "tipo": 5
+  },
+  {
+    "id": 182,
+    "fecha": "2021-12-20",
+    "cliente": 124,
+    "productos": [
+      1
+    ],
+    "total": 384,
+    "medio": "paypal OTM",
+    "tipo": 1
+  },
+  {
+    "id": 183,
+    "fecha": "2022-01-24",
+    "cliente": 125,
+    "productos": [
+      15
+    ],
+    "total": 288,
+    "medio": "paypal OTM",
+    "tipo": 1
+  },
+  {
+    "id": 184,
+    "fecha": "2022-03-31",
+    "cliente": 126,
+    "productos": [
+      15
+    ],
+    "total": 288,
+    "medio": "paypal OTM",
+    "tipo": 1
+  },
+  {
+    "id": 185,
+    "fecha": "2022-05-26",
+    "cliente": 127,
+    "productos": [
+      35
+    ],
+    "total": 247,
+    "medio": "paypal OTM",
+    "tipo": 1
+  },
+  {
+    "id": 186,
+    "fecha": "2022-05-30",
+    "cliente": 128,
+    "productos": [
+      25
+    ],
+    "total": 192,
+    "medio": "paypal OTM",
+    "tipo": 1
+  },
+  {
+    "id": 187,
+    "fecha": "2022-07-17",
+    "cliente": 129,
+    "productos": [
+      50,
+      40,
+      1
+    ],
+    "total": 743,
+    "medio": "paypal OTM",
+    "tipo": 1
+  },
+  {
+    "id": 188,
+    "fecha": "2022-08-15",
+    "cliente": 130,
+    "productos": [
+      40
+    ],
+    "total": 197,
+    "medio": "paypal OTM",
+    "tipo": 1
+  },
+  {
+    "id": 189,
+    "fecha": "2022-09-04",
+    "cliente": 131,
+    "productos": [
+      50,
+      40
+    ],
+    "total": 247,
+    "medio": "paypal OTM",
+    "tipo": 1
+  },
+  {
+    "id": 190,
+    "fecha": "2022-09-08",
+    "cliente": 130,
+    "productos": [
+      1
+    ],
+    "total": 497,
+    "medio": "paypal OTM",
+    "tipo": 1
+  },
+  {
+    "id": 191,
+    "fecha": "2022-09-29",
+    "cliente": 132,
+    "productos": [
+      1
+    ],
+    "total": 497,
+    "medio": "paypal OTM",
+    "tipo": 1
+  },
+  {
+    "id": 192,
+    "fecha": "2022-09-30",
+    "cliente": 133,
+    "productos": [
+      1
+    ],
+    "total": 497,
+    "medio": "paypal OTM",
+    "tipo": 1
+  },
+  {
+    "id": 193,
+    "fecha": "2022-10-13",
+    "cliente": 134,
+    "productos": [
+      1
+    ],
+    "total": 497,
+    "medio": "paypal OTM",
+    "tipo": 1
+  },
+  {
+    "id": 194,
+    "fecha": "2022-02-12",
+    "cliente": 166,
+    "productos": [
+      1
+    ],
+    "total": 422,
+    "medio": "Paypal cristian",
+    "tipo": 1
+  },
+  {
+    "id": 195,
+    "fecha": "2022-02-12",
+    "cliente": 147,
+    "productos": [
+      1
+    ],
+    "total": 422,
+    "medio": "Paypal cristian",
+    "tipo": 1
+  },
+  {
+    "id": 196,
+    "fecha": "2022-03-04",
+    "cliente": 122,
+    "productos": [
+      40
+    ],
+    "total": 120,
+    "medio": "Paypal cristian",
+    "tipo": 1
+  },
+  {
+    "id": 197,
+    "fecha": "2022-03-08",
+    "cliente": 140,
+    "productos": [
+      40
+    ],
+    "total": 120,
+    "medio": "Paypal cristian",
+    "tipo": 1
+  },
+  {
+    "id": 198,
+    "fecha": "2022-03-09",
+    "cliente": 167,
+    "productos": [
+      40
+    ],
+    "total": 120,
+    "medio": "Paypal cristian",
+    "tipo": 1
+  },
+  {
+    "id": 199,
+    "fecha": "2022-03-17",
+    "cliente": 168,
+    "productos": [
+      36,
+      1
+    ],
+    "total": 549,
+    "medio": "Paypal cristian",
+    "tipo": 1
+  },
+  {
+    "id": 200,
+    "fecha": "2022-03-29",
+    "cliente": 169,
+    "productos": [
+      40
+    ],
+    "total": 95.7085020242915,
+    "medio": "Paypal cristian",
+    "tipo": 1
+  },
+  {
+    "id": 201,
+    "fecha": "2022-04-04",
+    "cliente": 127,
+    "productos": [
+      1
+    ],
+    "total": 422,
+    "medio": "Paypal cristian",
+    "tipo": 1
+  },
+  {
+    "id": 202,
+    "fecha": "2022-05-21",
+    "cliente": 170,
+    "productos": [
+      40
+    ],
+    "total": 120,
+    "medio": "Paypal cristian",
+    "tipo": 1
+  },
+  {
+    "id": 203,
+    "fecha": "2022-07-21",
+    "cliente": 157,
+    "productos": [
+      50
+    ],
+    "total": 97,
+    "medio": "Paypal cristian",
+    "tipo": 1
+  },
+  {
+    "id": 204,
+    "fecha": "2022-08-25",
+    "cliente": 171,
+    "productos": [
+      36,
+      3
+    ],
+    "total": 664,
+    "medio": "Paypal cristian",
+    "tipo": 5
+  },
+  {
+    "id": 205,
+    "fecha": "2022-08-31",
+    "cliente": 172,
+    "productos": [
+      36,
+      3
+    ],
+    "total": 664,
+    "medio": "Paypal cristian",
+    "tipo": 5
+  },
+  {
+    "id": 208,
+    "fecha": "2022-02-28",
+    "cliente": 173,
+    "productos": [
+      1
+    ],
+    "total": 342,
+    "medio": "nequi y otros",
+    "tipo": 1
+  },
+  {
+    "id": 209,
+    "fecha": "2022-03-10",
+    "cliente": 174,
+    "productos": [
+      36
+    ],
+    "total": 103,
+    "medio": "nequi y otros",
+    "tipo": 1
+  },
+  {
+    "id": 210,
+    "fecha": "2022-03-16",
+    "cliente": 175,
+    "productos": [
+      40
+    ],
+    "total": 83,
+    "medio": "nequi y otros",
+    "tipo": 1
+  },
+  {
+    "id": 211,
+    "fecha": "2022-03-17",
+    "cliente": 156,
+    "productos": [
+      36
+    ],
+    "total": 95,
+    "medio": "nequi y otros",
+    "tipo": 1
+  },
+  {
+    "id": 212,
+    "fecha": "2022-07-20",
+    "cliente": 176,
+    "productos": [
+      36,
+      1
+    ],
+    "total": 691,
+    "medio": "nequi y otros",
+    "tipo": 1
+  },
+  {
+    "id": 213,
+    "fecha": "2022-08-22",
+    "cliente": 177,
+    "productos": [
+      36
+    ],
+    "total": 185,
+    "medio": "nequi y otros",
+    "tipo": 1
+  },
+  {
+    "id": 214,
+    "fecha": "2022-11-28",
+    "cliente": 178,
+    "productos": [
+      40
+    ],
+    "total": 97,
+    "medio": "teachable",
+    "tipo": 1
+  },
+  {
+    "id": 215,
+    "fecha": "2022-12-02",
+    "cliente": 178,
+    "productos": [
+      15
+    ],
+    "total": 288,
+    "medio": "nequi y otros",
+    "tipo": 1
+  },
+  {
+    "id": 216,
+    "fecha": "2022-11-27",
+    "cliente": 179,
+    "productos": [
+      35
+    ],
+    "total": 247,
+    "medio": "paypal OTM",
+    "tipo": 1
+  },
+  {
+    "id": 217,
+    "fecha": "2023-01-05",
+    "cliente": 180,
+    "productos": [
+      1
+    ],
+    "total": 362,
+    "medio": "nequi y otros",
+    "tipo": 1
+  },
+  {
+    "id": 219,
+    "fecha": "2022-11-24",
+    "cliente": 182,
+    "productos": [
+      1
+    ],
+    "total": 397,
+    "medio": "teachable",
+    "tipo": 1
+  },
+  {
+    "id": 220,
+    "fecha": "2022-11-26",
+    "cliente": 183,
+    "productos": [
+      1
+    ],
+    "total": 397,
+    "medio": "teachable",
+    "tipo": 1
+  },
+  {
+    "id": 222,
+    "fecha": "2022-11-28",
+    "cliente": 178,
+    "productos": [
+      40
+    ],
+    "total": 197,
+    "medio": "teachable",
+    "tipo": 1
+  },
+  {
+    "id": 223,
+    "fecha": "2023-01-09",
+    "cliente": 185,
+    "productos": [
+      36,
+      1
+    ],
+    "total": 664,
+    "medio": "teachable",
+    "tipo": 5
+  },
+  {
+    "id": 224,
+    "fecha": "2023-02-15",
+    "cliente": 186,
+    "productos": [
+      36,
+      1
+    ],
+    "total": 664,
+    "medio": "teachable",
+    "tipo": 5
+  },
+  {
+    "id": 225,
+    "fecha": "2023-02-20",
+    "cliente": 187,
+    "productos": [
+      1
+    ],
+    "total": 400,
+    "medio": "nequi y otros",
+    "tipo": 1
+  },
+  {
+    "id": 226,
+    "fecha": "2023-02-28",
+    "cliente": 188,
+    "productos": [
+      36,
+      1
+    ],
+    "total": 600,
+    "medio": "nequi y otros",
+    "tipo": 1
+  },
+  {
+    "id": 227,
+    "fecha": "2023-03-22",
+    "cliente": 189,
+    "productos": [
+      1
+    ],
+    "total": 497,
+    "medio": "teachable",
+    "tipo": 5
+  },
+  {
+    "id": 228,
+    "fecha": "2023-03-23",
+    "cliente": 190,
+    "productos": [
+      40,
+      3
+    ],
+    "total": 619,
+    "medio": "teachable",
+    "tipo": 6
+  },
+  {
+    "id": 229,
+    "fecha": "2023-03-24",
+    "cliente": 191,
+    "productos": [
+      1
+    ],
+    "total": 422,
+    "medio": "teachable",
+    "tipo": 5
+  },
+  {
+    "id": 230,
+    "fecha": "2023-03-30",
+    "cliente": 192,
+    "productos": [
+      1
+    ],
+    "total": 407,
+    "medio": "Paypal cristian",
+    "tipo": 1
+  },
+  {
+    "id": 231,
+    "fecha": "2023-04-10",
+    "cliente": 193,
+    "productos": [
+      35
+    ],
+    "total": 247,
+    "medio": "paypal OTM",
+    "tipo": 1
+  },
+  {
+    "id": 232,
+    "fecha": "2023-05-11",
+    "cliente": 194,
+    "productos": [
+      50,
+      40,
+      45,
+      3
+    ],
+    "total": 624.4000000000001,
+    "medio": "teachable",
+    "tipo": 6
+  },
+  {
+    "id": 233,
+    "fecha": "2023-05-15",
+    "cliente": 195,
+    "productos": [
+      36,
+      1
+    ],
+    "total": 642.071,
+    "medio": "nequi y otros",
+    "tipo": 1
+  },
+  {
+    "id": 234,
+    "fecha": "2023-05-18",
+    "cliente": 196,
+    "productos": [
+      1
+    ],
+    "total": 400,
+    "medio": "Paypal cristian",
+    "tipo": 1
+  },
+  {
+    "id": 235,
+    "fecha": "2023-05-19",
+    "cliente": 197,
+    "productos": [
+      50
+    ],
+    "total": 97,
+    "medio": "Paypal cristian",
+    "tipo": 1
+  },
+  {
+    "id": 236,
+    "fecha": "2023-05-20",
+    "cliente": 165,
+    "productos": [
+      36
+    ],
+    "total": 222,
+    "medio": "nequi y otros",
+    "tipo": 1
+  },
+  {
+    "id": 237,
+    "fecha": "2023-05-24",
+    "cliente": 198,
+    "productos": [
+      35,
+      1
+    ],
+    "total": 715.2,
+    "medio": "nequi y otros",
+    "tipo": 2
+  },
+  {
+    "id": 238,
+    "fecha": "2023-05-26",
+    "cliente": 199,
+    "productos": [
+      3
+    ],
+    "total": 500,
+    "medio": "teachable",
+    "tipo": 5
+  },
+  {
+    "id": 241,
+    "fecha": "2023-07-01",
+    "cliente": 203,
+    "productos": [
+      3
+    ],
+    "total": 500,
+    "medio": "teachable",
+    "tipo": 5
+  },
+  {
+    "id": 242,
+    "fecha": "2023-07-02",
+    "cliente": 204,
+    "productos": [
+      1
+    ],
+    "total": 497,
+    "medio": "Paypal cristian",
+    "tipo": 1
+  },
+  {
+    "id": 243,
+    "fecha": "2023-07-05",
+    "cliente": 205,
+    "productos": [
+      3
+    ],
+    "total": 425,
+    "medio": "Paypal cristian",
+    "tipo": 5
+  },
+  {
+    "id": 244,
+    "fecha": "2023-07-05",
+    "cliente": 206,
+    "productos": [
+      36,
+      3
+    ],
+    "total": 665,
+    "medio": "teachable",
+    "tipo": 3
+  },
+  {
+    "id": 245,
+    "fecha": "2023-07-11",
+    "cliente": 207,
+    "productos": [
+      35,
+      3
+    ],
+    "total": 749,
+    "medio": "teachable",
+    "tipo": 5
+  },
+  {
+    "id": 246,
+    "fecha": "2023-07-13",
+    "cliente": 208,
+    "productos": [
+      35,
+      1
+    ],
+    "total": 739,
+    "medio": "nequi y otros",
+    "tipo": 2
+  },
+  {
+    "id": 247,
+    "fecha": "2023-07-15",
+    "cliente": 192,
+    "productos": [
+      35
+    ],
+    "total": 397,
+    "medio": "Paypal cristian",
+    "tipo": 1
+  },
+  {
+    "id": 248,
+    "fecha": "2023-07-19",
+    "cliente": 209,
+    "productos": [
+      35,
+      1
+    ],
+    "total": 750,
+    "medio": "Paypal cristian",
+    "tipo": 1
+  },
+  {
+    "id": 249,
+    "fecha": "2023-07-24",
+    "cliente": 210,
+    "productos": [
+      1
+    ],
+    "total": 417,
+    "medio": "nequi y otros",
+    "tipo": 2
+  },
+  {
+    "id": 250,
+    "fecha": "2023-07-26",
+    "cliente": 211,
+    "productos": [
+      35,
+      1
+    ],
+    "total": 749,
+    "medio": "teachable",
+    "tipo": 5
+  },
+  {
+    "id": 251,
+    "fecha": "2023-08-01",
+    "cliente": 212,
+    "productos": [
+      1
+    ],
+    "total": 418,
+    "medio": "nequi y otros",
+    "tipo": 1
+  },
+  {
+    "id": 252,
+    "fecha": "2023-08-11",
+    "cliente": 213,
+    "productos": [
+      35,
+      1
+    ],
+    "total": 750,
+    "medio": "nequi y otros",
+    "tipo": 2
+  },
+  {
+    "id": 253,
+    "fecha": "2023-08-15",
+    "cliente": 214,
+    "productos": [
+      3
+    ],
+    "total": 500,
+    "medio": "nequi y otros",
+    "tipo": 5
+  },
+  {
+    "id": 254,
+    "fecha": "2023-08-15",
+    "cliente": 215,
+    "productos": [
+      35,
+      3
+    ],
+    "total": 750,
+    "medio": "nequi y otros",
+    "tipo": 2
+  },
+  {
+    "id": 255,
+    "fecha": "2023-08-24",
+    "cliente": 216,
+    "productos": [
+      35,
+      1
+    ],
+    "total": 749,
+    "medio": "teachable",
+    "tipo": 4
+  },
+  {
+    "id": 257,
+    "fecha": "2023-08-30",
+    "cliente": 218,
+    "productos": [
+      35,
+      3
+    ],
+    "total": 799.9,
+    "medio": "nequi y otros",
+    "tipo": 7
+  },
+  {
+    "id": 258,
+    "fecha": "2023-08-29",
+    "cliente": 219,
+    "productos": [
+      3
+    ],
+    "total": 422,
+    "medio": "Paypal cristian",
+    "tipo": 2
+  },
+  {
+    "id": 259,
+    "fecha": "2023-09-05",
+    "cliente": 220,
+    "productos": [
+      35,
+      3
+    ],
+    "total": 750,
+    "medio": "teachable",
+    "tipo": 5
+  },
+  {
+    "id": 260,
+    "fecha": "2023-09-06",
+    "cliente": 221,
+    "productos": [
+      1
+    ],
+    "total": 422,
+    "medio": "Paypal cristian",
+    "tipo": 1
+  },
+  {
+    "id": 261,
+    "fecha": "2023-09-18",
+    "cliente": 222,
+    "productos": [
+      3
+    ],
+    "total": 500,
+    "medio": "teachable",
+    "tipo": 5
+  },
+  {
+    "id": 262,
+    "fecha": "2023-09-20",
+    "cliente": 223,
+    "productos": [
+      1
+    ],
+    "total": 447,
+    "medio": "teachable",
+    "tipo": 1
+  },
+  {
+    "id": 263,
+    "fecha": "2023-10-06",
+    "cliente": 224,
+    "productos": [
+      1
+    ],
+    "total": 442,
+    "medio": "Paypal cristian",
+    "tipo": 1
+  },
+  {
+    "id": 264,
+    "fecha": "2023-10-21",
+    "cliente": 225,
+    "productos": [
+      1
+    ],
+    "total": 462,
+    "medio": "nequi y otros",
+    "tipo": 1
+  },
+  {
+    "id": 265,
+    "fecha": "2023-10-21",
+    "cliente": 226,
+    "productos": [
+      35
+    ],
+    "total": 345,
+    "medio": "teachable",
+    "tipo": 1
+  },
+  {
+    "id": 266,
+    "fecha": "2023-10-23",
+    "cliente": 227,
+    "productos": [
+      3
+    ],
+    "total": 500,
+    "medio": "teachable",
+    "tipo": 5
+  },
+  {
+    "id": 267,
+    "fecha": "2023-10-25",
+    "cliente": 228,
+    "productos": [
+      1
+    ],
+    "total": 422,
+    "medio": "teachable",
+    "tipo": 1
+  },
+  {
+    "id": 268,
+    "fecha": "2023-10-27",
+    "cliente": 229,
+    "productos": [
+      35
+    ],
+    "total": 345,
+    "medio": "nequi y otros",
+    "tipo": 1
+  },
+  {
+    "id": 269,
+    "fecha": "2023-10-31",
+    "cliente": 230,
+    "productos": [
+      35,
+      1
+    ],
+    "total": 738,
+    "medio": "nequi y otros",
+    "tipo": 2
+  },
+  {
+    "id": 270,
+    "fecha": "2023-11-03",
+    "cliente": 231,
+    "productos": [
+      3
+    ],
+    "total": 420,
+    "medio": "teachable",
+    "tipo": 5
+  },
+  {
+    "id": 271,
+    "fecha": "2023-11-15",
+    "cliente": 232,
+    "productos": [
+      3
+    ],
+    "total": 422,
+    "medio": "teachable",
+    "tipo": 2
+  },
+  {
+    "id": 272,
+    "fecha": "2023-11-15",
+    "cliente": 233,
+    "productos": [
+      40
+    ],
+    "total": 197,
+    "medio": "Paypal cristian",
+    "tipo": 1
+  },
+  {
+    "id": 273,
+    "fecha": "2023-07-20",
+    "cliente": 176,
+    "productos": [
+      45
+    ],
+    "total": 197,
+    "medio": "nequi y otros",
+    "tipo": 1
+  },
+  {
+    "id": 274,
+    "fecha": "2023-11-24",
+    "cliente": 234,
+    "productos": [
+      35,
+      1
+    ],
+    "total": 729.95,
+    "medio": "Paypal cristian",
+    "tipo": 1
+  },
+  {
+    "id": 275,
+    "fecha": "2023-11-25",
+    "cliente": 235,
+    "productos": [
+      35,
+      1
+    ],
+    "total": 729.9000000000001,
+    "medio": "nequi y otros",
+    "tipo": 1
+  },
+  {
+    "id": 276,
+    "fecha": "2023-11-24",
+    "cliente": 236,
+    "productos": [
+      35,
+      1
+    ],
+    "total": 735,
+    "medio": "nequi y otros",
+    "tipo": 5
+  },
+  {
+    "id": 277,
+    "fecha": "2023-11-25",
+    "cliente": 237,
+    "productos": [
+      35,
+      3
+    ],
+    "total": 735,
+    "medio": "nequi y otros",
+    "tipo": 5
+  },
+  {
+    "id": 278,
+    "fecha": "2023-11-26",
+    "cliente": 238,
+    "productos": [
+      35,
+      3
+    ],
+    "total": 735,
+    "medio": "nequi y otros",
+    "tipo": 5
+  },
+  {
+    "id": 279,
+    "fecha": "2023-11-26",
+    "cliente": 239,
+    "productos": [
+      35,
+      3
+    ],
+    "total": 735,
+    "medio": "nequi y otros",
+    "tipo": 5
+  },
+  {
+    "id": 280,
+    "fecha": "2023-11-27",
+    "cliente": 240,
+    "productos": [
+      3
+    ],
+    "total": 408,
+    "medio": "nequi y otros",
+    "tipo": 4
+  },
+  {
+    "id": 281,
+    "fecha": "2023-11-27",
+    "cliente": 228,
+    "productos": [
+      35
+    ],
+    "total": 327,
+    "medio": "nequi y otros",
+    "tipo": 3
+  },
+  {
+    "id": 282,
+    "fecha": "2023-11-27",
+    "cliente": 196,
+    "productos": [
+      35
+    ],
+    "total": 325,
+    "medio": "nequi y otros",
+    "tipo": 1
+  },
+  {
+    "id": 283,
+    "fecha": "2023-11-27",
+    "cliente": 199,
+    "productos": [
+      35
+    ],
+    "total": 327,
+    "medio": "nequi y otros",
+    "tipo": 3
+  },
+  {
+    "id": 284,
+    "fecha": "2023-11-27",
+    "cliente": 244,
+    "productos": [
+      3
+    ],
+    "total": 405,
+    "medio": "nequi y otros",
+    "tipo": 5
+  },
+  {
+    "id": 285,
+    "fecha": "2023-12-01",
+    "cliente": 245,
+    "productos": [
+      35
+    ],
+    "total": 397,
+    "medio": "nequi y otros",
+    "tipo": 1
+  },
+  {
+    "id": 286,
+    "fecha": "2023-12-10",
+    "cliente": 246,
+    "productos": [
+      1
+    ],
+    "total": 497,
+    "medio": "Paypal cristian",
+    "tipo": 1
+  },
+  {
+    "id": 287,
+    "fecha": "2023-12-13",
+    "cliente": 247,
+    "productos": [
+      35,
+      3
+    ],
+    "total": 766.9,
+    "medio": "nequi y otros",
+    "tipo": 5
+  },
+  {
+    "id": 288,
+    "fecha": "2024-01-08",
+    "cliente": 248,
+    "productos": [
+      1
+    ],
+    "total": 497,
+    "medio": "teachable",
+    "tipo": 1
+  },
+  {
+    "id": 289,
+    "fecha": "2024-01-31",
+    "cliente": 249,
+    "productos": [
+      15
+    ],
+    "total": 288,
+    "medio": "nequi y otros",
+    "tipo": 1
+  },
+  {
+    "id": 290,
+    "fecha": "2024-02-10",
+    "cliente": 250,
+    "productos": [
+      3
+    ],
+    "total": 500,
+    "medio": "nequi y otros",
+    "tipo": 5
+  },
+  {
+    "id": 291,
+    "fecha": "2024-03-13",
+    "cliente": 1,
+    "productos": [
+      1,
+      35
+    ],
+    "total": "767",
+    "medio": "Paypal",
+    "tipo": "1"
+  },
+  {
+    "id": 292,
+    "fecha": "2024-03-14",
+    "cliente": 2,
+    "productos": [
+      50
+    ],
+    "total": "97",
+    "medio": "Paypal",
+    "tipo": "1"
+  },
+  {
+    "id": 293,
+    "fecha": "2024-04-09",
+    "cliente": 203,
+    "productos": [
+      35
+    ],
+    "total": "400",
+    "medio": "Lemon squeezy",
+    "tipo": "4"
+  },
+  {
+    "id": 294,
+    "fecha": "2024-04-28",
+    "cliente": 3,
+    "productos": [
+      1
+    ],
+    "total": "497",
+    "medio": "Lemon squeezy",
+    "tipo": "1"
+  },
+  {
+    "id": 295,
+    "fecha": "2024-05-20",
+    "cliente": 4,
+    "productos": [
+      1,
+      35
+    ],
+    "total": "700",
+    "medio": "Lemon squeezy",
+    "tipo": "1"
+  },
+  {
+    "id": 296,
+    "fecha": "2024-05-20",
+    "cliente": 5,
+    "productos": [
+      1,
+      35
+    ],
+    "total": "700",
+    "medio": "Lemon squeezy",
+    "tipo": "1"
+  },
+  {
+    "id": 297,
+    "fecha": "2024-05-20",
+    "cliente": 6,
+    "productos": [
+      15
+    ],
+    "total": "288",
+    "medio": "Lemon squeezy",
+    "tipo": "1"
+  },
+  {
+    "id": 298,
+    "fecha": "2024-06-09",
+    "cliente": 7,
+    "productos": [
+      1
+    ],
+    "total": "399",
+    "medio": "Lemon squeezy",
+    "tipo": "1"
+  },
+  {
+    "id": 299,
+    "fecha": "2024-06-19",
+    "cliente": 8,
+    "productos": [
+      1
+    ],
+    "total": "497",
+    "medio": "Lemon squeezy",
+    "tipo": "1"
+  },
+  {
+    "id": 300,
+    "fecha": "2023-08-28",
+    "cliente": 9,
+    "productos": [
+      36
+    ],
+    "total": "200",
+    "medio": "Paypal",
+    "tipo": "1"
+  },
+  {
+    "id": 301,
+    "fecha": "2023-06-28",
+    "cliente": 201,
+    "productos": [
+      35,
+      1
+    ],
+    "total": 714,
+    "medio": "nequi y otros",
+    "tipo": 2
+  },
+  {
+    "id": 302,
+    "fecha": "2024-07-20",
+    "cliente": 251,
+    "productos": [
+      1
+    ],
+    "total": "350",
+    "medio": "Nequi",
+    "tipo": "1"
+  },
+  {
+    "id": 303,
+    "fecha": "2024-07-28",
+    "cliente": 252,
+    "productos": [
+      1
+    ],
+    "total": "398",
+    "medio": "Lemon squeezy",
+    "tipo": "1"
+  },
+  {
+    "id": 304,
+    "fecha": "2024-07-31",
+    "cliente": 253,
+    "productos": [
+      1
+    ],
+    "total": "447",
+    "medio": "Lemon squeezy",
+    "tipo": "1"
+  },
+  {
+    "id": 305,
+    "fecha": "2024-08-11",
+    "cliente": 254,
+    "productos": [
+      1
+    ],
+    "total": "447",
+    "medio": "Lemon squeezy",
+    "tipo": "1"
+  },
+  {
+    "id": 306,
+    "fecha": "2024-08-11",
+    "cliente": 175,
+    "productos": [
+      1
+    ],
+    "total": "397",
+    "medio": "Lemon squeezy",
+    "tipo": "1"
+  },
+  {
+    "id": 307,
+    "fecha": "2024-08-14",
+    "cliente": 255,
+    "productos": [
+      20
+    ],
+    "total": "197",
+    "medio": "Lemon squeezy",
+    "tipo": "1"
+  },
+  {
+    "id": 308,
+    "fecha": "2024-08-18",
+    "cliente": 256,
+    "productos": [
+      35
+    ],
+    "total": "397",
+    "medio": "Lemon squeezy",
+    "tipo": "1"
+  },
+  {
+    "id": 309,
+    "fecha": "2024-08-22",
+    "cliente": 226,
+    "productos": [
+      1
+    ],
+    "total": "397",
+    "medio": "Lemon squeezy",
+    "tipo": "1"
+  },
+  {
+    "id": 310,
+    "fecha": "2024-09-03",
+    "cliente": 257,
+    "productos": [
+      3
+    ],
+    "total": "450",
+    "medio": "Lemon squeezy",
+    "tipo": "5"
+  },
+  {
+    "id": 311,
+    "fecha": "2024-09-06",
+    "cliente": 258,
+    "productos": [
+      3
+    ],
+    "total": "500",
+    "medio": "Lemon squeezy",
+    "tipo": "5"
+  },
+  {
+    "id": 312,
+    "fecha": "2024-09-06",
+    "cliente": 259,
+    "productos": [
+      35
+    ],
+    "total": "397",
+    "medio": "Lemon squeezy",
+    "tipo": "1"
+  },
+  {
+    "id": 313,
+    "fecha": "2024-09-18",
+    "cliente": 260,
+    "productos": [
+      1
+    ],
+    "total": "407",
+    "medio": "Lemon squeezy",
+    "tipo": "1"
+  },
+  {
+    "id": 314,
+    "fecha": "2024-09-18",
+    "cliente": 261,
+    "productos": [
+      35
+    ],
+    "total": "328",
+    "medio": "Lemon squeezy",
+    "tipo": "4"
+  },
+  {
+    "id": 315,
+    "fecha": "2024-09-20",
+    "cliente": 262,
+    "productos": [
+      3
+    ],
+    "total": "500",
+    "medio": "Lemon squeezy",
+    "tipo": "5"
+  },
+  {
+    "id": 316,
+    "fecha": "2024-09-25",
+    "cliente": 263,
+    "productos": [
+      1
+    ],
+    "total": "497",
+    "medio": "Lemon squeezy",
+    "tipo": "1"
+  },
+  {
+    "id": 317,
+    "fecha": "2024-10-11",
+    "cliente": 7,
+    "productos": [
+      35
+    ],
+    "total": "357",
+    "medio": "Lemon squeezy",
+    "tipo": "5"
+  },
+  {
+    "id": 318,
+    "fecha": "2024-10-11",
+    "cliente": 175,
+    "productos": [
+      35
+    ],
+    "total": "317",
+    "medio": "Lemon squeezy",
+    "tipo": "1"
+  },
+  {
+    "id": 319,
+    "fecha": "2024-10-16",
+    "cliente": 264,
+    "productos": [
+      3,
+      35
+    ],
+    "total": "715",
+    "medio": "Lemon squeezy",
+    "tipo": "5"
+  },
+  {
+    "id": 320,
+    "fecha": "2024-10-16",
+    "cliente": 265,
+    "productos": [
+      3,
+      35
+    ],
+    "total": "715",
+    "medio": "Lemon squeezy",
+    "tipo": "5"
+  },
+  {
+    "id": 321,
+    "fecha": "2024-10-17",
+    "cliente": 266,
+    "productos": [
+      3,
+      35
+    ],
+    "total": "715",
+    "medio": "Lemon squeezy",
+    "tipo": "5"
+  },
+  {
+    "id": 322,
+    "fecha": "2024-10-17",
+    "cliente": 267,
+    "productos": [
+      3,
+      35
+    ],
+    "total": "715",
+    "medio": "Lemon squeezy",
+    "tipo": "5"
+  },
+  {
+    "id": 323,
+    "fecha": "2024-10-18",
+    "cliente": 268,
+    "productos": [
+      40
+    ],
+    "total": "197",
+    "medio": "Lemon squeezy",
+    "tipo": "1"
+  },
+  {
+    "id": 324,
+    "fecha": "2024-10-23",
+    "cliente": 269,
+    "productos": [
+      1
+    ],
+    "total": "497",
+    "medio": "Lemon squeezy",
+    "tipo": "1"
+  },
+  {
+    "id": 325,
+    "fecha": "2024-10-23",
+    "cliente": 270,
+    "productos": [
+      15
+    ],
+    "total": "288",
+    "medio": "Lemon squeezy",
+    "tipo": "1"
+  },
+  {
+    "id": 326,
+    "fecha": "2024-10-28",
+    "cliente": 271,
+    "productos": [
+      3,
+      35
+    ],
+    "total": "715",
+    "medio": "Lemon squeezy",
+    "tipo": "5"
+  },
+  {
+    "id": 327,
+    "fecha": "2024-11-01",
+    "cliente": 272,
+    "productos": [
+      40
+    ],
+    "total": "197",
+    "medio": "Lemon squeezy",
+    "tipo": "1"
+  },
+  {
+    "id": 328,
+    "fecha": "2024-11-08",
+    "cliente": 273,
+    "productos": [
+      35
+    ],
+    "total": "397",
+    "medio": "Lemon squeezy",
+    "tipo": "1"
+  },
+  {
+    "id": 329,
+    "fecha": "2024-11-28",
+    "cliente": 274,
+    "productos": [
+      1,
+      35
+    ],
+    "total": "429",
+    "medio": "Lemon squeezy",
+    "tipo": "1"
+  },
+  {
+    "id": 330,
+    "fecha": "2024-11-28",
+    "cliente": 275,
+    "productos": [
+      3,
+      35
+    ],
+    "total": "1170",
+    "medio": "Lemon squeezy",
+    "tipo": "6"
+  },
+  {
+    "id": 331,
+    "fecha": "2024-11-29",
+    "cliente": 276,
+    "productos": [
+      1,
+      35
+    ],
+    "total": "429",
+    "medio": "Binance",
+    "tipo": "1"
+  },
+  {
+    "id": 332,
+    "fecha": "2024-12-01",
+    "cliente": 277,
+    "productos": [
+      35
+    ],
+    "total": "318",
+    "medio": "Lemon squeezy",
+    "tipo": "1"
+  },
+  {
+    "id": 333,
+    "fecha": "2024-12-01",
+    "cliente": 278,
+    "productos": [
+      3
+    ],
+    "total": "400",
+    "medio": "Lemon squeezy",
+    "tipo": "4"
+  },
+  {
+    "id": 334,
+    "fecha": "2024-12-01",
+    "cliente": 279,
+    "productos": [
+      35
+    ],
+    "total": "320",
+    "medio": "Lemon squeezy",
+    "tipo": "4"
+  },
+  {
+    "id": 335,
+    "fecha": "2024-12-02",
+    "cliente": 280,
+    "productos": [
+      3,
+      35
+    ],
+    "total": "1170",
+    "medio": "Lemon squeezy",
+    "tipo": "6"
+  },
+  {
+    "id": 336,
+    "fecha": "2024-12-06",
+    "cliente": 257,
+    "productos": [
+      3
+    ],
+    "total": "397",
+    "medio": "Lemon squeezy",
+    "tipo": "5"
+  },
+  {
+    "id": 337,
+    "fecha": "2024-12-07",
+    "cliente": 281,
+    "productos": [
+      3
+    ],
+    "total": "397",
+    "medio": "Paypal",
+    "tipo": "2"
+  },
+  {
+    "id": 338,
+    "fecha": "2024-12-07",
+    "cliente": 282,
+    "productos": [
+      3,
+      35
+    ],
+    "total": "195",
+    "medio": "Lemon squeezy",
+    "tipo": "6"
+  },
+  {
+    "id": 339,
+    "fecha": "2024-12-07",
+    "cliente": 283,
+    "productos": [
+      35
+    ],
+    "total": "350",
+    "medio": "Lemon squeezy",
+    "tipo": "5"
+  },
+  {
+    "id": 340,
+    "fecha": "2024-12-09",
+    "cliente": 284,
+    "productos": [
+      3
+    ],
+    "total": "500",
+    "medio": "Lemon squeezy",
+    "tipo": "5"
+  },
+  {
+    "id": 341,
+    "fecha": "2024-12-18",
+    "cliente": 269,
+    "productos": [
+      45
+    ],
+    "total": "197",
+    "medio": "Lemon squeezy",
+    "tipo": "1"
+  },
+  {
+    "id": 342,
+    "fecha": "2024-12-18",
+    "cliente": 285,
+    "productos": [
+      25
+    ],
+    "total": "192",
+    "medio": "Lemon squeezy",
+    "tipo": "1"
+  },
+  {
+    "id": 343,
+    "fecha": "2024-12-23",
+    "cliente": 286,
+    "productos": [
+      3,
+      35
+    ],
+    "total": "537",
+    "medio": "Lemon squeezy",
+    "tipo": "1"
+  },
+  {
+    "id": "compra-1749855211667-999",
+    "cliente": "cliente-1749855211667-997",
+    "fecha": "2025-06-13",
+    "productos": [],
+    "medioPago": "paypal",
+    "cuotas": 1,
+    "precioTotal": 0
+  }
+]

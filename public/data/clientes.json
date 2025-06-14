@@ -1,0 +1,1494 @@
+[
+  {
+    "id": 1,
+    "nombre": "andres rodriguez",
+    "idmachine": "A44B187CC2A785DD8FD8C50D6C25A5F4",
+    "mail": "44103819ar@gmail.com",
+    "comentario": "pack",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 2,
+    "nombre": "jaime carvajal molinet",
+    "idmachine": "37830D8FA2CA95AD5FC31C33CD308F01",
+    "mail": "cm.jaime@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 3,
+    "nombre": "fleming gonzales",
+    "idmachine": "590CB56424C4B21091F9E04A00945AF1",
+    "mail": "FXFLEG@YAHOO.COM",
+    "comentario": "pack",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 4,
+    "nombre": "jose maria bustos",
+    "idmachine": "A850824A774FC13D9C853F0FC478675C",
+    "mail": "jose.maria.bustos@outlook.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 5,
+    "nombre": "cristhian felipe rondon",
+    "idmachine": "BA95D87DC4F5260DD70CA9FC45059962",
+    "mail": "kamus963@hotmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 6,
+    "nombre": "carlos cabrera",
+    "idmachine": "E9271891015EC425067CD2102324BD86",
+    "mail": "carloshanibal2@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 7,
+    "nombre": "cristian quintana",
+    "idmachine": "A102BEA7B515C00340D2A5347CCFAC44",
+    "mail": "cristianqtrader@gmail.com",
+    "comentario": "",
+    "actualizaciones": "1",
+    "idprevio": "A2EECC2D5D00E87B484512599F43803D,2024-07-03"
+  },
+  {
+    "id": 8,
+    "nombre": "deivis escalante",
+    "idmachine": "085106EBD71AB6F9E11CA417ADB87867",
+    "mail": "deivismindsettrader@gmail.com",
+    "comentario": "pack",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 9,
+    "nombre": "juan camilo blanco",
+    "idmachine": "2F5827F5CA50BDDA3EDC3492F74534BF",
+    "mail": "juancamilob1991@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 10,
+    "nombre": "miguel rivera",
+    "idmachine": "9CF81DEC7F7A2DBD1B85B4BF869279DA",
+    "mail": "mgrh7309@gmail.com",
+    "comentario": "pack",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 11,
+    "nombre": "leonardo parra castro",
+    "idmachine": "EFA8909E45F4350489695F9CD1046B04",
+    "mail": "leonardopc21@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 121,
+    "nombre": "emir matos",
+    "idmachine": "90BC89116839FA8A9C582480A58092CD",
+    "mail": "emirmatos@hotmail.com",
+    "comentario": null,
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 122,
+    "nombre": "jose antonio bernal",
+    "idmachine": "A827E2DCF05C151A3904127A11A984EA",
+    "mail": "so307755@gmail.com",
+    "comentario": "DD3CC0C56BED2836C3590E0FEC174FAB,77D822BF0DCC35DA5A08148909DD9E00;",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 123,
+    "nombre": "ernesto diaz",
+    "idmachine": "BFAFB41B24528F056E1BB5451970BEF3",
+    "mail": "netillodiaz@hotmail.com",
+    "comentario": ";43B1DF9355CD06F947DB0F2B444B4022,43B1DF9355CD06F947DB0F2B444B4022,43B1DF9355CD06F947DB0F2B444B4022,43B1DF9355CD06F947DB0F2B444B4022",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 124,
+    "nombre": "xavier pareja",
+    "idmachine": "7EA48AEACC5DB59F18C223AB9E0B7B40",
+    "mail": "xpareja@yahoo.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 125,
+    "nombre": "mauro  casado",
+    "idmachine": "FD00EF7DEFD0B81BA16D4744FC86F239",
+    "mail": "maurocasado.mmo@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 126,
+    "nombre": "hector hugo lara",
+    "idmachine": "3ADCEBCC2D8A6A916875683A0C80071B",
+    "mail": "hugo_laraz@yahoo.com.mx",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 127,
+    "nombre": "christian barrientos",
+    "idmachine": "35AB64C66F081FA21B5F867E2D23FCA3",
+    "mail": "christian_barrie@hotmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 128,
+    "nombre": "ivan oliveira",
+    "idmachine": "79C4A2DE1220C0C82A57B630FE051BA5",
+    "mail": "ixos82@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 129,
+    "nombre": "jose gonzales",
+    "idmachine": "68F87B4BB55C07B122DF2B3C18F1AE15",
+    "mail": "gonzalezifm@hotmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 130,
+    "nombre": "miguel baez",
+    "idmachine": "44B9512A39DBD6A1F56F209269346F30",
+    "mail": "yotubendo@gmail.com",
+    "comentario": "paypal de delma rubio;",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 131,
+    "nombre": "juan javier aldana",
+    "idmachine": "AF0B11E4A01F1F46014E63FDFCBEA694",
+    "mail": "aldanavelajuanjavier@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 132,
+    "nombre": "eduard ng",
+    "idmachine": "7243A76BFF3FDFFC5648BF3CA3D47AC1",
+    "mail": "emwng@shaw.ca",
+    "comentario": "canadiense;",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 133,
+    "nombre": "jacques oosthuizen",
+    "idmachine": "C857ED7B85CF0C6332EC8CEB46FAF1D5",
+    "mail": "prokkieinvest@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 134,
+    "nombre": "carlos  abreu",
+    "idmachine": "D5013A906C1DE5835AECD0BCA51024C3",
+    "mail": "Karloslevit@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 140,
+    "nombre": "javier briongos",
+    "idmachine": "E2BA2AAFEE38502316DFAB156059B801",
+    "mail": "jbriongosc@gmail.com",
+    "comentario": "66FE204A3D0ADB36FBF73929F39D3685;",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 141,
+    "nombre": "angel castillo",
+    "idmachine": "3E089E83E2DA3E95F60210AC4DBE4511",
+    "mail": "Fx.Castiel.C@gmail.com",
+    "comentario": "ant: 728432297F1CCB9F5675865C767DF85C,6E484A20AC0F0C8DB2882B5E5A82A169;",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 142,
+    "nombre": "andres izquierdo",
+    "idmachine": "B29BC26863A210D00A971297FCEE4416",
+    "mail": "izkierdo93@gmail.com",
+    "comentario": "1D2945C930683AE506AF5C6BC9D808ED;1",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 143,
+    "nombre": "fernando butarro",
+    "idmachine": "D1722C23054E91F8E6816DB287D32FF6",
+    "mail": "fernandolb27@hotmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 144,
+    "nombre": "vasile nasi urdas",
+    "idmachine": "D6991E8A56E4D4CAE513EEB32E94F486",
+    "mail": "basinasu71@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 145,
+    "nombre": "ramon munuera",
+    "idmachine": "76143523FCDCC10B3412E6CBA4FABF6C",
+    "mail": "rhino3d@hotmail.es",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 146,
+    "nombre": "federico verdejo",
+    "idmachine": "5227BF762915EEAC2FF9BD85F358C7C2",
+    "mail": "federicoverdejo@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 147,
+    "nombre": "kevin lemus",
+    "idmachine": "47D41BBD4BB97118E47B5C7781A3F714",
+    "mail": "kelvintrader200@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 148,
+    "nombre": "pedro olivera",
+    "idmachine": "79C4A2DE1220C0C82A57B630FE051BA5",
+    "mail": "ivan.xavier.oliveira@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 149,
+    "nombre": "luis miguel falta",
+    "idmachine": "CA4E60649986B88F907806E812FD08B1",
+    "mail": "luimanco87@hotmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 150,
+    "nombre": "roberto leon diaz",
+    "idmachine": "32DEA84AC57E372374968FD3FB044098",
+    "mail": "robertoleon850425@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 151,
+    "nombre": "jose nuñez",
+    "idmachine": "DA29C22613D78328A683E20568DD513B",
+    "mail": "Josemanuelnp24@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 152,
+    "nombre": "diago garcia",
+    "idmachine": "D713ECF635EC6AAC09C835FE2A50846F",
+    "mail": "diegotraderusd@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 153,
+    "nombre": "abraham gutierrez",
+    "idmachine": "B8AAA3350997BDAF857571B11BA9A1B3",
+    "mail": "eigraham.ttg@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 154,
+    "nombre": "pablo obrero",
+    "idmachine": "58F0D577B7228F76717ADBFF41214A42",
+    "mail": "pablosobrero93@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 155,
+    "nombre": "oscar castro",
+    "idmachine": "DAE91DB676192A2D9E6FB04C5DE57D0B",
+    "mail": "studio7tradinguprofit@gmail.com",
+    "comentario": "previa:  5677A8A9B0509C3D884FD502B6BF7D88,prev: A41B4FB668CCB7DD07FACBDF30C28CDA;",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 156,
+    "nombre": "juan pablo cardona",
+    "idmachine": "43B4211392E73E3AE44F5BB8FBDCC754",
+    "mail": "jpcardona@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 157,
+    "nombre": "javier ortega",
+    "idmachine": "FD3F283173DC495DAEC8972DDB26EAD3",
+    "mail": "acrobata999@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 158,
+    "nombre": "sebastian gonzales",
+    "idmachine": "5B09131E2A6FAE5D6CE471A0A38B59B6",
+    "mail": "davidsebastian.023@hotmail.es",
+    "comentario": "update 2.5;",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 159,
+    "nombre": "oscar vargas",
+    "idmachine": "D9DA9A9AED6B9C970B3A73613810C399",
+    "mail": "ivanvargas1026@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 160,
+    "nombre": "eduardo de la hoz",
+    "idmachine": "D1E1D26538EB98BDC172DDEDE417B72F",
+    "mail": "eduardo@delahoz.co",
+    "comentario": "7EC3751C1C1FBFFCB4439050B0F74ABA;3",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 161,
+    "nombre": "leonardo falta",
+    "idmachine": "260C9825EC163B5DCFFD88B9E46D8C41",
+    "mail": "info@futurostrade.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 162,
+    "nombre": "david sanchez",
+    "idmachine": "AEC641035F696496E1134F1C42A4F67F",
+    "mail": "davivsz@hotmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 163,
+    "nombre": "fernando gutierrez",
+    "idmachine": "96E0B6AD31B20C927EE6D08C6EE08961",
+    "mail": "fergutiflo.trader@gmail.com",
+    "comentario": "F236EA8EDEC0798CF688F836B09FB061;F078920CF9E99C90156D457B2C79A5D0,idChange_08_03_23:05A4171AD4E330E5D87C3E46333DDBA5;",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 164,
+    "nombre": "roberto franco",
+    "idmachine": "75BA707532690BBE4F0697824DF89050",
+    "mail": "leone.rfs@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 165,
+    "nombre": "elias polania",
+    "idmachine": "F876C0E103797C01C4D66329EC53E134",
+    "mail": "elias.polania@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 166,
+    "nombre": "kevin alexi lemu",
+    "idmachine": "47D41BBD4BB97118E47B5C7781A3F714",
+    "mail": "kelvintrader200@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 167,
+    "nombre": "ruben gamero",
+    "idmachine": "falta",
+    "mail": "faltante@mail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 168,
+    "nombre": "matias lozano",
+    "idmachine": "415F4BFEA995B6063916218DA9A94506",
+    "mail": "LOZMAGO@HOTMAIL.COM",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 169,
+    "nombre": "maximiliano cristiani",
+    "idmachine": "0F8FCA48006A85774EFE93BF2F3F6572",
+    "mail": "faltante@mail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 170,
+    "nombre": "gustavo loiz",
+    "idmachine": "FA2143C4D68788CC412D9E9FAF91EE08",
+    "mail": "ustavomoralesloiz@gmail.com",
+    "comentario": "BE7E2D5034BA236E0858C8399C2C1E8A;",
+    "actualizaciones": "2",
+    "idprevio": "26D2331DF466A4CC78CBC04F0B69FDC1,2024-07-06;FA2143C4D68788CC412D9E9FAF91EE08,2024-07-22"
+  },
+  {
+    "id": 171,
+    "nombre": "marta melgarejo",
+    "idmachine": "3A480C325ECD643EC68C1C6213664F7E",
+    "mail": "martaselvamelgarejoriquelmepy@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 172,
+    "nombre": "eduardo garcia",
+    "idmachine": "ECE7A2468FF6C4B5F1869D0BB4F4C02E",
+    "mail": "eduardo.gracia@dmro.com.mx",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 173,
+    "nombre": "oscar fabian henao",
+    "idmachine": "6828F27B74CDE73E4466D75237917B15",
+    "mail": "bittradinginvestor@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 174,
+    "nombre": "jose  prieto",
+    "idmachine": "falta",
+    "mail": "falta@mail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 175,
+    "nombre": "andres alzate",
+    "idmachine": "falta",
+    "mail": "andresalzaterios@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 176,
+    "nombre": "hames riaño",
+    "idmachine": "8ADAADA516FD7CDDA670AA3310E11655",
+    "mail": "rianojames@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 177,
+    "nombre": "camilo sanchez",
+    "idmachine": "falta",
+    "mail": "falta",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 178,
+    "nombre": "nestor forero",
+    "idmachine": "240ADAD940BF48B604BA488F476B0F9C",
+    "mail": "danifo999@gmail.com",
+    "comentario": "o dani garzon;",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 179,
+    "nombre": "jorge carrera",
+    "idmachine": "81AB238EAD2DBBDFBFF1DAAB618C88D7",
+    "mail": "JORGE.SOS135@GMAIL.COM",
+    "comentario": ";anterior:35489E3CDCEF27C0AB82072DFB33F105",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 180,
+    "nombre": "german sepulveda",
+    "idmachine": "361084E58615F79981F6BCB0A534F0D3",
+    "mail": "germansepulvedarough@gmail.com",
+    "comentario": "hizo 2 pagos por nequi;",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 182,
+    "nombre": "juan solorio",
+    "idmachine": "E13B2BCFFF513F0B54F8C4D8B97BD22C",
+    "mail": "ramonjrsp1@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 183,
+    "nombre": "luis daniel galicia",
+    "idmachine": "5E154E0B91BB4C5B571CC0F01DDBBE42",
+    "mail": "GFDaniiel@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 185,
+    "nombre": "aida benitez",
+    "idmachine": "AB09F00D2647E575A4D01C4387F44FB6",
+    "mail": "agbg.agbb@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 186,
+    "nombre": "jose de la rosa",
+    "idmachine": "1B3DFEB84F6BD437DCECD4DBC3E8A2F4",
+    "mail": "amvjose@gmail.com",
+    "comentario": "compra pack otm + of + an;",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 187,
+    "nombre": "breyner frank",
+    "idmachine": "5D3D8F109070EEBAD6F981862476B362",
+    "mail": "breynerfrank@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 188,
+    "nombre": "carlos andres huertas",
+    "idmachine": "E4A57692F15AA55889D1B414EA03AB91",
+    "mail": "carlosandreshuertas@hotmail.com",
+    "comentario": "compra pack otm + of + an;[(17/04-47EEA9C9338E248186E9E936A683A6B5)]",
+    "actualizaciones": "1",
+    "idprevio": "A5D6694087E3B3CB1C48877722CACB1,2024-06-18"
+  },
+  {
+    "id": 189,
+    "nombre": "fredy betancour",
+    "idmachine": "08EBE9BCF029922D99BB7EDA84DF62EB",
+    "mail": "fforex203@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 190,
+    "nombre": "edi Quargnali Alamillo",
+    "idmachine": "D82457E0FAD1722B6C6DFA3D391F8D3A",
+    "mail": "equargnali@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 191,
+    "nombre": "juan ignacio aldaco",
+    "idmachine": "0890F089B5D0E6491CCBD0F964576F97",
+    "mail": "aldako@gmail.com",
+    "comentario": "pago cuotas;",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 192,
+    "nombre": "francisco castro",
+    "idmachine": "F484A00B8A66352F4AC15770C5B34D93",
+    "mail": "fzcr2018@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 193,
+    "nombre": "axel mauricio bravo",
+    "idmachine": "F3EB36237EFD52634150C761FE2114D7",
+    "mail": "axel.bravo80@outlook.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 194,
+    "nombre": "oscar david pinzon castellanos",
+    "idmachine": "048E22A25D6C2B9126F7B76469976A03",
+    "mail": "davidcastellanos.art@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 195,
+    "nombre": "guillermo esquivel",
+    "idmachine": "53CB531C239BBCC0809C547A4883B909",
+    "mail": "hola@guillermoesquivel.com",
+    "comentario": "DFB10F0DC0B8EADA14509C265FF22B86,7ADA1BC84F76A669DD1181391D7583E9,79A69220B57B78AA3E49A27D97F2FC97;4 cambios de id",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 196,
+    "nombre": "pedro gomis",
+    "idmachine": "AE1CBA482C4630C47BA2D7A982CC82C1",
+    "mail": "pgfuturos@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 197,
+    "nombre": "humberto fernandez",
+    "idmachine": "B9456E171EECE346308D8E47CC32726F",
+    "mail": "ventasatlt@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 198,
+    "nombre": "daniel esteban castellanos",
+    "idmachine": "4013C63492740621F17F8789551B5E46",
+    "mail": "daniescastellanos@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 199,
+    "nombre": "veronica morales",
+    "idmachine": "440E12744F85CA05026D1D2507DA516F",
+    "mail": "Vemaggiero@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 200,
+    "nombre": "jhon camacho",
+    "idmachine": "3BF8AEB4C6A721B701CBBAD4B010D02F",
+    "mail": "falta@gmail.com",
+    "comentario": "006FDF24601CC9E128243BB56CA2233D; otm, 27-06-2020",
+    "actualizaciones": "0",
+    "idprevio": ""
+  },
+  {
+    "id": 201,
+    "nombre": "carlos granobles",
+    "idmachine": "438B6C875E57B70763235E176DBB3DC3",
+    "mail": "carlos.granobles@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "1",
+    "idprevio": "D6E34C183AFFEA37613FA360AB574F02,2024-06-20"
+  },
+  {
+    "id": 203,
+    "nombre": "lucford castillo",
+    "idmachine": "1B18E772B727532BC3B77F764A8E7F6E",
+    "mail": "lucfordc@hotmail.com",
+    "comentario": ";",
+    "actualizaciones": "2",
+    "idprevio": "70484F0C40FC22705BD520397C024198,2024-06-20;2F350A9969FE369FAD01D681AF60154A,2024-06-29"
+  },
+  {
+    "id": 204,
+    "nombre": "carlos temes",
+    "idmachine": "4896C31802491CF595032DE58EC93AED",
+    "mail": "catemes2006@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 205,
+    "nombre": "alex bravo",
+    "idmachine": "F3EB36237EFD52634150C761FE2114D7",
+    "mail": "axel.bravo80@outlook.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 206,
+    "nombre": "javier gutierrez",
+    "idmachine": "F39EA4E3F55E10AE49B7059A711A9224",
+    "mail": "gutierrezjavier2003@yahoo.es",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 207,
+    "nombre": "jhonny rojas",
+    "idmachine": "3EF88F6DC008277DE2AF2FFCBE9CA20F",
+    "mail": "bigrojas@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 208,
+    "nombre": "juan ignacio rodriguez",
+    "idmachine": "FEAC692132BEA3D775D7134C2D2C1487",
+    "mail": "juani.rodriguez@live.com",
+    "comentario": "pack;",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 209,
+    "nombre": "ricardo reyna benavente",
+    "idmachine": "0AF39C85B7CA2A36D5DCE0FACF2914B0",
+    "mail": "rickyreyna@gmail.com",
+    "comentario": "B797A4C93F1DCAD3C597DBAC911DE6D8,90A85B7300FBC4C36AD7BB89BF1EEBA9,2EB09500C9EF304C34FBA8E4EEFE7F48,C7BAC2C742ABE31DCC44A0E4E65A2AD9;",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 210,
+    "nombre": "jair alexis garcia diaz",
+    "idmachine": "96E0B6AD31B20C927EE6D08C6EE08961",
+    "mail": "axel.608@hotmail.com",
+    "comentario": "F236EA8EDEC0798CF688F836B09FB061;",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 211,
+    "nombre": "fernando gomez",
+    "idmachine": "96E0B6AD31B20C927EE6D08C6EE08961",
+    "mail": "fer.gomez1931@gmail.com",
+    "comentario": "431EA3789C9B07F9A7470DDEDF7E0408;",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 212,
+    "nombre": "bladymir calderon",
+    "idmachine": "DB3A4FF8C5D14908008606117468D5E9",
+    "mail": "bladimirc03@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 213,
+    "nombre": "julie medina",
+    "idmachine": "3B09777D969EC12ED1A06A4AB9961183",
+    "mail": "julie.medina26@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 214,
+    "nombre": "ricardo paba",
+    "idmachine": "C47BCEC969F7FEEA71A9249293ADEE0E",
+    "mail": "alfredopaba@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 215,
+    "nombre": "joel zuluaga",
+    "idmachine": "90A85B7300FBC4C36AD7BB89BF1EEBA9",
+    "mail": "zulu.joel@yahoo.com",
+    "comentario": "45FFC0D98BE55F06FFEDCE361E6D8CDE;",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 216,
+    "nombre": "hugo lombana",
+    "idmachine": "B2857F5E2BE447665328D92ECBBEE073",
+    "mail": "lombanarunning@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 218,
+    "nombre": "lucas ortega",
+    "idmachine": "0A9257F675A0B926556AF7662B568144",
+    "mail": "lucanor4@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 219,
+    "nombre": "julieth quintero",
+    "idmachine": "5E992D454EEE681DB314B3CFF7201A91",
+    "mail": "quinterojuliethcarolina@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 220,
+    "nombre": "diego fernando fajardo ramirez",
+    "idmachine": "4CEC09B159F9D7AA62024DC377414DC9",
+    "mail": "diegoffajardor@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 221,
+    "nombre": "cristopher fernandez",
+    "idmachine": "82F2482280974C7B502E442FF5187950",
+    "mail": "yellowfin1976@gmail.com",
+    "comentario": "B8F410B189674E8710371BDC29F3480F;3",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 222,
+    "nombre": "jose luis enriquez",
+    "idmachine": "8DBA777F16900D54C2118EEA481EE32B",
+    "mail": "joseenriquezh1@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 223,
+    "nombre": "matias sanchez espinoza",
+    "idmachine": "3121BE9B7E426AF1D51A5BA2A0128219",
+    "mail": "m4tiko@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 224,
+    "nombre": "juan luis gorde",
+    "idmachine": "BE0774E8D4C502E9F84C23D524998DB3",
+    "mail": "tabakinas@hotmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 225,
+    "nombre": "andres amador",
+    "idmachine": "4081CDEB9F5FE773B2DAE81A23EFF05D",
+    "mail": "aamadorperea@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 226,
+    "nombre": "andres david bedoya ramirez",
+    "idmachine": "5033F7661F903199B60D29307D49BCAF",
+    "mail": "ansbr@hotmail.com",
+    "comentario": ";",
+    "actualizaciones": "1",
+    "idprevio": "8594308665231E7886E61E1E731602CF,2024-07-24"
+  },
+  {
+    "id": 227,
+    "nombre": "hugo de la garza davila",
+    "idmachine": "13DB2B386EDC1CCC45515323C7FFD047",
+    "mail": "hdelagarzad@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 228,
+    "nombre": "edwinmer miranda",
+    "idmachine": "B086F81CE0005D315C2D6A6DACE97432",
+    "mail": "edwinnmer@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "1",
+    "idprevio": "0F88488A46522593C40C0C0A23B8DEA5,2024-04-26"
+  },
+  {
+    "id": 229,
+    "nombre": "diego exposito cuende",
+    "idmachine": "887D37F6804BDD01B4F9B0DAEE48DFBF",
+    "mail": "diegoexpositocuende@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 230,
+    "nombre": "david ramirez",
+    "idmachine": "2123FA4F22C6CE502753495C4B0E8837",
+    "mail": "wdavidramires@gmail.com",
+    "comentario": "A46F3CC7A61B07BAD146E4610241DBD5;1",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 231,
+    "nombre": "keyvic tello",
+    "idmachine": "260C9825EC163B5DCFFD88B9E46D8C41",
+    "mail": "keyvicuk@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 232,
+    "nombre": "angel flavio cuellar mercado",
+    "idmachine": "B4E0AB9F6733B6346237C43632A699CB",
+    "mail": "angel_cuellarm@hotmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 233,
+    "nombre": "yose de los santos",
+    "idmachine": "5A27C41D171B3569BCBC6A3256BC22F3",
+    "mail": "yosewym@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 234,
+    "nombre": "blas lorenzo riquelme",
+    "idmachine": "7BCB3A26F9298838981D371057117D2F",
+    "mail": "blas.riquelme@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 235,
+    "nombre": "howart coft quejada",
+    "idmachine": "59D1238CDAB0FC19A8CDB5905DBB5089",
+    "mail": "howart17quejada@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 236,
+    "nombre": "carlos alberto ortiz",
+    "idmachine": "0735D14B6BA754A20595BC878A28328E",
+    "mail": "caocas1978@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 237,
+    "nombre": "diego alejandro echeverri arenas",
+    "idmachine": "86FFAB5D17F0A608F8E64FEBD627B602",
+    "mail": "echeverridiego86@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 238,
+    "nombre": "jore raul gimenez saiz",
+    "idmachine": "F93943F0788A9A14FF6868BFEFDA5AA2",
+    "mail": "joragisa@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 239,
+    "nombre": "fabian barrero",
+    "idmachine": "8A5703EE3CF667F2A75DD3DBD25410F1",
+    "mail": "barrero.fabian@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 240,
+    "nombre": "faiber loaiza pulgarin",
+    "idmachine": "7243A76BFF3FDFFC5648BF3CA3D47AC1",
+    "mail": "faigrande@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 244,
+    "nombre": "alfonso viveros",
+    "idmachine": "C737070992DE0E2EEAFB3BC5FE24EFCE",
+    "mail": "alfonsoviveros1974@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 245,
+    "nombre": "andres jose amador perea",
+    "idmachine": "4081CDEB9F5FE773B2DAE81A23EFF05D",
+    "mail": "aamadorperea@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 246,
+    "nombre": "lovell augustin",
+    "idmachine": "D3A4283083ACDFF38B3CB72A624B2B17",
+    "mail": "lovcarrib@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 247,
+    "nombre": "norberto suarez ajeno",
+    "idmachine": "D14C1B810B20FFD9FCCB5B2B4C5A904A",
+    "mail": "norsuareztrading@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 248,
+    "nombre": "alejandro olarte fernandez",
+    "idmachine": "B6F7EFC173D157D752E6B7442D063CF3",
+    "mail": "alexxhansentrader@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 249,
+    "nombre": "jorgue guerra contretas",
+    "idmachine": "5CF7529E475B10F9A198C312B91CDE68",
+    "mail": "jorge.suo.1991@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 250,
+    "nombre": "bernardo roca",
+    "idmachine": "D93ACB50296203C1F04F55C50C221251",
+    "mail": "bernyrf33@gmail.com",
+    "comentario": ";",
+    "actualizaciones": "",
+    "idprevio": ""
+  },
+  {
+    "id": 251,
+    "nombre": "carlos correa zambrano",
+    "idmachine": "7AE4DC0EBBBC5A934C4F0C8653E56FFD",
+    "mail": "angelus.live@outlook.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 252,
+    "nombre": "paolo yance",
+    "idmachine": "74B10A044C5C7C22F2C397EB8A603BF9",
+    "mail": "paoloyance10@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 253,
+    "nombre": "javier murias",
+    "idmachine": "766B2B6B52212F92BA3878EE3E6CDE77",
+    "mail": "jmurias87@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 254,
+    "nombre": "sandra rodriguez",
+    "idmachine": "A1EADFF3F0D04A36E604209E3D389EF0",
+    "mail": "sanrodhecali@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 255,
+    "nombre": "alex contreras",
+    "idmachine": "1259742D2056BAB913D5677886F792F2",
+    "mail": "alexcontreras@divika.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 256,
+    "nombre": "willian gibbon",
+    "idmachine": "C02A05562229F0D44245E52728A6DF0A",
+    "mail": "wgibbon@me.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 257,
+    "nombre": "javier robles vera",
+    "idmachine": "ED1E6519AFB099C693D0395EAA7119F4",
+    "mail": "traderjrv@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 258,
+    "nombre": "ivan carlos artiles cruz",
+    "idmachine": "660A7B953067080D59406130E05FB224",
+    "mail": "artilesnet@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 259,
+    "nombre": "anthony paulman",
+    "idmachine": "C9102B1C1D280656E2D080D9E09313CD",
+    "mail": "mrketmonkey@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 260,
+    "nombre": "oswaldo arias",
+    "idmachine": "EDF19D0213EA5F12E35A6937AC14126A",
+    "mail": "oswaldoariasr@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 261,
+    "nombre": "ossie martinez",
+    "idmachine": "D50DAFBD55D829A1C93929E330DF1FA8",
+    "mail": "ozzmar@hotmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 262,
+    "nombre": "diego gonzales",
+    "idmachine": "026CDCBD51AB5F88A6E2C4FE1160C4AD",
+    "mail": "diesuper16@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 263,
+    "nombre": "razvan georgescu",
+    "idmachine": "DAFD770DCC43206A1F053ECDA51452E8",
+    "mail": "cont_instal@yahoo.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 264,
+    "nombre": "roberto marcelino de mello",
+    "idmachine": "A97F7E8DED8076935F60EDF97E45A4A2",
+    "mail": "fazcertoquedacerto85@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 265,
+    "nombre": "oscar alejandro arias marquez",
+    "idmachine": "2846781447D0240183BF0758E481DEDB",
+    "mail": "Oaam.trader@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 266,
+    "nombre": "horacio jose martinez gimenez",
+    "idmachine": "5ED7FBF820668D80D6BD7A26FB47E3A5",
+    "mail": "hora28py@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 267,
+    "nombre": "daniel mario quispe llanos",
+    "idmachine": "EA73EF3CB02FF897CFE508D4AF38FD94",
+    "mail": "danielsito.007.41@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 268,
+    "nombre": "rita maria guerreiro dar neves neto",
+    "idmachine": "EBA81A08160A9E84DB9161E70B604AD8",
+    "mail": "ritagneto@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 269,
+    "nombre": "glenville gomez",
+    "idmachine": "73406CC184AF6B5CFFFEB7E95FF1172B",
+    "mail": "mgomie350@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 270,
+    "nombre": "Mahendra Kadidahl",
+    "idmachine": "3B53A76FF328DDB1A70337D916ACCCBD",
+    "mail": "kadidahl@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 271,
+    "nombre": "wilson rojas",
+    "idmachine": "A6174D932BDA3BB8F0A8E2F08636F293",
+    "mail": "wilson.rojasch@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 272,
+    "nombre": "jorge solves albert",
+    "idmachine": "8B7754E653A596A05D879911DFC7AA43",
+    "mail": "jsolves@hotmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 273,
+    "nombre": "andrew beck",
+    "idmachine": "A1EE33AE01D40C3CB2131576F6977E3D",
+    "mail": "andrewbbeck1@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 274,
+    "nombre": "victor cabezas figueroa",
+    "idmachine": "2755534D0B750ACA972ECD087764394D",
+    "mail": "cabezas884@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 275,
+    "nombre": "douglas edoardo gomez",
+    "idmachine": "1B1F88E94311A1AB338323638F173EB8",
+    "mail": "douglas.deg@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 276,
+    "nombre": "fadrian",
+    "idmachine": "6EC3D201104008F67FBFB9E5BA8A6B4E",
+    "mail": "fadrianya@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 277,
+    "nombre": "hector martinez",
+    "idmachine": "7243A76BFF3FDFFC5648BF3CA3D47AC1",
+    "mail": "soccer22hector@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 278,
+    "nombre": "cesar hernandez",
+    "idmachine": "207FB1325CE4E41550541CEAA4A59A9D",
+    "mail": "cesarhernandezmmm@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 279,
+    "nombre": "angel flavio cuellar",
+    "idmachine": "B4E0AB9F6733B6346237C43632A699CB",
+    "mail": "angel_cuellarm@hotmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 280,
+    "nombre": "giovanny mendez",
+    "idmachine": "DEB782B1422A283775F2C4B1229B4067",
+    "mail": "Gm_07@hotmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 281,
+    "nombre": "ivan xx",
+    "idmachine": "0000",
+    "mail": "0000",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 282,
+    "nombre": "luis marrero",
+    "idmachine": "E4B2A24B10FA0C241D7342110237F0AE ",
+    "mail": "luistrader005@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 283,
+    "nombre": "fabio ramirez",
+    "idmachine": "423115BCC276D8EE4ED3D809CF49557F",
+    "mail": "fabioramirezth4@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 284,
+    "nombre": "helmut landsberger",
+    "idmachine": "C0071E71FC40FB2672B8063145896EA6",
+    "mail": "helmutlandsbergerjorge@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 285,
+    "nombre": "wayne bilodeau",
+    "idmachine": "58F895C6FE2E0888E228C7558E60A77C",
+    "mail": "wayne.bilodeau@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": 286,
+    "nombre": "juan manuel cañar",
+    "idmachine": "781EA229AEF034A89B15528C980F18FD",
+    "mail": "juancho0781@gmail.com",
+    "comentario": "",
+    "actualizaciones": 0,
+    "idprevio": ""
+  },
+  {
+    "id": "cliente-1749855211667-997",
+    "nombre": "pepe",
+    "mail": "algo@gmail.com",
+    "idmachine": "65456456465",
+    "comentario": "lkasjkdfjkl"
+  }
+]

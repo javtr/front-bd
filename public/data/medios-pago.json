@@ -1,0 +1,30 @@
+{
+  "mediosPago": [
+    {
+      "id": "lemon-squeeze",
+      "nombre": "Lemon Squeeze",
+      "permiteCuotas": false
+    },
+    {
+      "id": "paypal",
+      "nombre": "Paypal",
+      "permiteCuotas": true,
+      "maxCuotas": 12
+    },
+    {
+      "id": "nequi",
+      "nombre": "Nequi",
+      "permiteCuotas": false
+    },
+    {
+      "id": "binance",
+      "nombre": "Binance",
+      "permiteCuotas": false
+    },
+    {
+      "id": "otros",
+      "nombre": "Otro",
+      "permiteCuotas": false
+    }
+  ]
+} 
