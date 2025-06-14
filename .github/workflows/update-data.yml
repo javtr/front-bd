@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.REPO_TOKEN }}
+          token: ${{ secrets.VITE_GITHUB_TOKEN }}
 
       - name: Update JSON files
         run: |

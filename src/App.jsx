@@ -283,76 +283,45 @@ function App() {
 
   const guardarCambios = async () => {
     try {
-      if (import.meta.env.DEV) {
-        // En desarrollo, guardamos los archivos localmente
-        const clientesData = JSON.stringify(clientes, null, 2);
-        const comprasData = JSON.stringify(compras, null, 2);
+      // Obtener el token de GitHub de las variables de entorno de Vite
+      const token = import.meta.env.VITE_GITHUB_TOKEN;
+      const repository = 'javtr/front-bd'; // Repositorio hardcodeado para evitar problemas
 
-        // Crear archivos descargables
-        const clientesBlob = new Blob([clientesData], { type: 'application/json' });
-        const comprasBlob = new Blob([comprasData], { type: 'application/json' });
-
-        // Crear enlaces de descarga
-        const clientesUrl = URL.createObjectURL(clientesBlob);
-        const comprasUrl = URL.createObjectURL(comprasBlob);
-
-        // Crear y hacer clic en los enlaces
-        const clientesLink = document.createElement('a');
-        clientesLink.href = clientesUrl;
-        clientesLink.download = 'clientes.json';
-        document.body.appendChild(clientesLink);
-        clientesLink.click();
-        document.body.removeChild(clientesLink);
-
-        const comprasLink = document.createElement('a');
-        comprasLink.href = comprasUrl;
-        comprasLink.download = 'compras.json';
-        document.body.appendChild(comprasLink);
-        comprasLink.click();
-        document.body.removeChild(comprasLink);
-
-        // Liberar URLs
-        URL.revokeObjectURL(clientesUrl);
-        URL.revokeObjectURL(comprasUrl);
-
-        setCambiosPendientes(false);
-        alert('Los archivos han sido descargados. Por favor, reemplaza los archivos en la carpeta public/data y haz commit de los cambios.');
-      } else {
-        // En producción, intentamos usar GitHub Actions
-        const token = process.env.REPO_TOKEN;
-        if (!token) {
-          throw new Error('No se encontró el token de GitHub');
-        }
-
-        const clientesData = JSON.stringify(clientes, null, 2);
-        const comprasData = JSON.stringify(compras, null, 2);
-
-        const response = await fetch(
-          `https://api.github.com/repos/${process.env.GITHUB_REPOSITORY}/dispatches`,
-          {
-            method: 'POST',
-            headers: {
-              'Accept': 'application/vnd.github.v3+json',
-              'Authorization': `token ${token}`,
-              'Content-Type': 'application/json',
-            },
-            body: JSON.stringify({
-              event_type: 'update_data',
-              client_payload: {
-                clientes: clientesData,
-                compras: comprasData
-              }
-            })
-          }
-        );
-
-        if (!response.ok) {
-          throw new Error('Error al enviar los datos a GitHub');
-        }
-
-        setCambiosPendientes(false);
-        alert('Los archivos han sido actualizados correctamente. Los cambios se reflejarán en unos momentos.');
+      if (!token) {
+        throw new Error('No se encontró el token de GitHub. Por favor, configura VITE_GITHUB_TOKEN en el archivo .env');
       }
+
+      // Preparar los datos para enviar
+      const clientesData = JSON.stringify(clientes, null, 2);
+      const comprasData = JSON.stringify(compras, null, 2);
+
+      // Enviar los datos al GitHub Action
+      const response = await fetch(
+        `https://api.github.com/repos/${repository}/dispatches`,
+        {
+          method: 'POST',
+          headers: {
+            'Accept': 'application/vnd.github.v3+json',
+            'Authorization': `Bearer ${token}`,
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({
+            event_type: 'update_data',
+            client_payload: {
+              clientes: clientesData,
+              compras: comprasData
+            }
+          })
+        }
+      );
+
+      if (!response.ok) {
+        const errorData = await response.json();
+        throw new Error(`Error al enviar los datos a GitHub: ${errorData.message || response.statusText}`);
+      }
+
+      setCambiosPendientes(false);
+      alert('Los archivos han sido actualizados correctamente. Los cambios se reflejarán en unos momentos.');
     } catch (error) {
       console.error('Error al guardar cambios:', error);
       setError('Error al guardar los cambios: ' + error.message);
