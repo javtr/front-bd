@@ -3,10 +3,8 @@ import './App.css'
 
 // Configuración de la aplicación
 const CONFIG = {
-  // En desarrollo usamos archivos locales, en producción será la URL de AWS
-  DATA_URL: process.env.NODE_ENV === 'production' 
-    ? 'https://tu-bucket-aws.s3.amazonaws.com/data'
-    : '/data',
+  // URL base para los archivos JSON en GitHub
+  DATA_URL: 'https://raw.githubusercontent.com/javtr/front-bd/main/public/data',
   // Archivos que necesitamos manejar
   FILES: {
     CLIENTES: 'clientes.json',
