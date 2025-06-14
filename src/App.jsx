@@ -284,7 +284,7 @@ function App() {
   const guardarCambios = async () => {
     try {
       // Obtener el token de GitHub del archivo de configuración
-      const token = process.env.GITHUB_TOKEN;
+      const token = process.env.REPO_TOKEN;
       if (!token) {
         throw new Error('No se encontró el token de GitHub');
       }
